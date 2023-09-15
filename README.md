@@ -32,7 +32,7 @@ apiKey = "API_KEY"
 ## Android:
 
 You can run the app on your Android device if you have flutter installed on your machine, you just need to: <br>
-- Clone repository `git clone https://github.com/theiskaa/MobileGPT`
+- Clone repository `git clone https://github.com/deepfield-xx/eleven-labs-flutter`
 - Connect your Android device to your machine via USB cable, and run `flutter run -d android`.
 
 Or, you can take release build and install on your Android device: `flutter build apk --release`.
@@ -40,7 +40,7 @@ Or, you can take release build and install on your Android device: `flutter buil
 ## iOS:
 
 You can run the app on your iOS device if you have flutter installed on your machine, you just need to: <br>
-- Clone repository `git clone https://github.com/theiskaa/MobileGPT`
+- Clone repository `git clone https://github.com/deepfield-xx/eleven-labs-flutter`
 - Connect your iOS device to your machine via USB cable, and run `flutter run -d ios`.
 
 ## API & Docs
