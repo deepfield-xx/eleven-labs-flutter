@@ -9,8 +9,8 @@
 
 An unofficial [ElevenLabs](https://elevenlabs.io/) cross-platform mobile application built with Flutter/Dart.
 
-Don't forget to unmute the player!
-<video loop width="630" height="600" src="https://github.com/deepfield-xx/eleven-labs-flutter/assets/1065335/42b7261d-3d3b-4643-b33e-900e48ad4552" />
+### Demo - don't forget to unmute the player!
+https://github.com/deepfield-xx/eleven-labs-flutter/assets/1065335/28def58e-a4ab-4966-b5ad-0ef28720f063
 
 
 
